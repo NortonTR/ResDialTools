@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotator>
+  <info type="id" value="a01" />
+  <info type="name" value = "Tiago Missao"/>
+  <info type="gender" value="m" />
+  <info type="age" value="19"/>
+  <info type="area" value="exact sciences" />
+  <info type="degree" value="graduate" />
+  <info type="State of Origin" value="SP"/>
+</annotator>

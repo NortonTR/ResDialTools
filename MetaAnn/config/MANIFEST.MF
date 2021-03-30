@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Tiago Missão
+Main-Class: Exemplo.source.Main
+Class-Path: lib/jdom-2.0.4.jar lib/common.jar
